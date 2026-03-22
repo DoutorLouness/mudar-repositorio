@@ -25,4 +25,4 @@ Você pode baixar e executar o script com um único comando no seu terminal.
 
 ### Opção 1: Rodar direto via cURL (Mais rápido)
 ```bash
-bash <(curl -s [https://raw.githubusercontent.com/DoutorLouness/mudar-repositorio/main/repo.sh)
+bash <(curl -s https://raw.githubusercontent.com/DoutorLouness/mudar-repositorio/main/repo.sh)
